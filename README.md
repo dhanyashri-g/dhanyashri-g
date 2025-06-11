@@ -1,11 +1,86 @@
-## Hi there 👋
+---------------------------------------------------------------------------------------------------------------------------
+# Specialities
 
-<!--
-**dhanyashri-g/dhanyashri-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| 🧬 Bioinformatics | 💾 Database | 🌱 Biodiversity, Statistics & ResearchM | ⚗️ Life Sciences |
+|------------------|---------|----------------------------------------|------------------------------|
+| E-Health & Ethics in Bioinformatics | Database Management | Biodiversity | Biochemistry & Applied Chemistry |
+| Bioinformatics Data Processing      | Data Analysis | Informatics Ecology & Environment | Microbiology |
+| Sequence & Structure Analysis       | Data Structure & Algorithm | Biostatistics | Molecular Biology |
+| Informatics Pathology              | Object Oriented Analysis & Design | Calculus & Discrete | General Genetics |
+| Health Informatics                 | System Analysis & Design | Research Methodology | Cell & Tissue Biology |
 
-# SPECIALITY
+---------------------------------------------------------------------------------------------------------------------------
+# 📄 Publications
 
-| **1. Bioinformatics** | **2. Data** | **3. Biology / Chemistry** |
-|-----------------------|-------------|-----------------------------|
-| • E-Health & Ethics in Bioinformatics  <br> • Bioinformatics Data Processing  <br> • Sequence & Structure Analysis  <br> • Informatics Pathology  <br> • Health Informatics | • Database  <br> • Database Management  <br> • Data Analysis  <br> • Data Structure & Algorithm  <br> • Object Oriented Analysis & Design  <br> • System Analysis & Design | • Biochemistry  <br> • Applied Chemistry  <br> • Microbiology  <br> • Molecular Biology  <br> • General Genetics  <br> • Cell & Tissue Biology |
+- **MDPI Pathogen**  📎 [`DOI: 10.3390/pathogens14010001`](https://doi.org/10.3390/pathogens14010001)  
+  *Title:* Comprehensive Insights into Monkeypox (mpox): Recent Advances in Epidemiology, Diagnostic Approaches and Therapeutic Strategies  
+  🗓️ **Year:** 2024 🏆 **Rank:** Q1
+
+- **Preprint**  📎 [`DOI: 10.20944/preprints202408.0558.v1`](https://doi.org/10.20944/preprints202408.0558.v1)  
+  *Title:* Long COVID: G Protein-Coupled Receptors (GPCRs) Associated Genes and Pathways as a Promising Therapeutic Potential Through Computational Analysis  
+  🗓️ **Year:** 2024 🎓 **Project:** Final Year Project
+
+- **arXiv**  📎 [`DOI: 10.48550/arXiv.2310.03086`](https://doi.org/10.48550/arXiv.2310.03086)  
+  *Title:* Deep Learning in Computational Biology: Advancements, Challenges, and Future Outlook  
+  🗓️ **Year:** 2023 🏆 **Rank:** Q1
+
+
+
+---------------------------------------------------------------------------------------------------------------------------
+# 🧪 Professional Development
+
+<p align="center">
+  <table>
+    <tr>
+      <td width="30%" valign="top">
+        <div align="left">
+          <div align="center"><strong>🔬 Whole Genome Sequencing & AMR Profiling</strong><br><br>
+          📘 <strong>Instructor:</strong> Dr. K.M. Kumar<br>
+          🧩 <strong>Skills:</strong> <code>WGS</code> <code>Antibiotic Resistance</code> <code>Pathogen Analysis</code><br>
+          📍 <strong>Type:</strong> Workshop
+        </div>
+      </td>
+      <td width="5%"></td> <!-- Spacer -->
+      <td width="30%" valign="top">
+        <div align="left">
+          <div align="center"><strong>🦠 Microbial Pathogen Database & Resources</strong><br><br>
+          📘 <strong>Instructor:</strong> Dr. K.M. Kumar<br>
+          🗂️ <strong>Skills:</strong> <code>Pathogen Database</code> <code>Microbial Tools</code> <code>Bioinfo Resources</code><br>
+          📍 <strong>Type:</strong> Short Course
+        </div>
+      </td>
+      <td width="5%"></td> <!-- Spacer -->
+      <td width="30%" valign="top">
+        <div align="left">
+          <div align="center"><strong>🧬 NGS Microbial Data Analysis (Incobiom Workshop)</strong><br><br>
+          🏛️ <strong>Event:</strong> Post-Conference<br>
+          🗃️ <strong>Skills:</strong> <code>NGS</code> <code>Data Exploration</code> <code>Microbial Genomics</code><br>
+          📍 <strong>Type:</strong> Short Course
+        </div>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------
+# 🌐 Languages
+
+  | 🏴 English            | 🇲🇾 Bahasa Melayu      | 🇮🇳 Tamil               |
+  |-----------------------|------------------------|-------------------------|
+  | `🟢 Fluent`<br>Professional Fluency in Speaking & Writing | `🟢 Fluent`<br>Professional Fluency in Speaking & Writing | `🟢 Fluent (Native)`<br>Professional Fluency in Speaking |
+
+
+
+
+
+
+
 
