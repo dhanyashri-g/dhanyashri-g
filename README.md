@@ -74,8 +74,7 @@
 ![MDPI](https://img.shields.io/badge/Journal-MDPI%20Pathogens-blue?style=flat-square&logo=mdpi)
 ![Q1](https://img.shields.io/badge/Rank-Q1-success?style=flat-square)
 ![Year](https://img.shields.io/badge/Year-2024-lightgrey?style=flat-square)📎 [`DOI: 10.3390/pathogens14010001`](https://doi.org/10.3390/pathogens14010001)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 🧬 **Long COVID: G Protein-Coupled Receptors (GPCRs) Associated Genes and Pathways as a Promising Therapeutic Potential Through Computational Analysis**
 
@@ -84,8 +83,7 @@
 ![Preprint](https://img.shields.io/badge/Platform-Preprints.org-orange?style=flat-square)
 ![Final Year Project](https://img.shields.io/badge/Project-Final%20Year%20Project-blueviolet?style=flat-square)
 ![Year](https://img.shields.io/badge/Year-2024-lightgrey?style=flat-square) 📎 [`DOI: 10.20944/preprints202408.0558.v1`](https://doi.org/10.20944/preprints202408.0558.v1)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 🤖 **Deep Learning in Computational Biology: Advancements, Challenges, and Future Outlook**
 
