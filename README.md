@@ -81,7 +81,7 @@
 **Summary:** Explores the involvement of **GPCRs** in *Long COVID* pathophysiology using **in silico transcriptomic and pathway enrichment analyses**. Highlights new therapeutic angles and drug repositioning opportunities.
 
 ![Preprint](https://img.shields.io/badge/Platform-Preprints.org-orange?style=flat-square)
-![Final Year Project](https://img.shields.io/badge/Project-Final%20Year%20Project-blueviolet?style=flat-square)
+![Final Year Project](https://img.shields.io/badge/Project-FYP-blueviolet?style=flat-square)
 ![Year](https://img.shields.io/badge/Year-2024-lightgrey?style=flat-square) 📎 [`DOI: 10.20944/preprints202408.0558.v1`](https://doi.org/10.20944/preprints202408.0558.v1)
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
