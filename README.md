@@ -40,6 +40,15 @@
 | 🥇 Best Poster Presenter <br> 📍 *INCOBIOM 2024* <br> 🏅 Best Poster Award <br> 💡 Presented award-winning research in computational biology and precision medicine. | <img src="./certificate1.jpg" alt="Certificate 1" width="105"> |
 | 🎓 Dean’s List Award <br> 🏫 *University Academic Excellence* <br> 📅 2022, 2023, 2024 <br> 🏅 Maintained consistent academic excellence across 3 years. | <img src="./certificates2.jpg" alt="Certificate 2" width="105"> |
 
+---
+# 🧬 Scientific Participation
+
+| ![Certificate 1](./certificate_inco.png){width=105} | ![Certificate 2](./certificate_impachs.png){width=105} | ![Certificate 3](./certificate_biotech.png){width=105} |
+|:--:|:--:|:--:|
+| **🌐 INCOBIOM 2024**  <br> *International Conference on Computational Biology & Precision Medicine*  <br> 📅 `2024` <br> 🧬 Poster presentation on Long Covid Therapeutics | **🧪 iMPaCHS 2024**  <br> *International Medical, Pharmaceutical, Cosmeceutical & Health Symposium*  <br> 📅 `2024` <br> 💊 Oral presentation on Antimicrobial Resistance. | **🌱 Biotech & EnviroConf 2023**  <br> *Conference on Biotech, Chemical & Environmental Sciences*  <br> 📅 `2023` <br> 🌿 Poster Presentation on Drugs |
+
+
+
 
 ---
 # 🧪 Professional Development
