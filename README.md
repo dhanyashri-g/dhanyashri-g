@@ -48,8 +48,6 @@
 ![Q1](https://img.shields.io/badge/Rank-Q1-success?style=flat-square)
 ![Year](https://img.shields.io/badge/Year-2024-lightgrey?style=flat-square)📎 [`DOI: 10.3390/pathogens14010001`](https://doi.org/10.3390/pathogens14010001)
 
----
-
 ### 🧬 **Long COVID: G Protein-Coupled Receptors (GPCRs) Associated Genes and Pathways as a Promising Therapeutic Potential Through Computational Analysis**
 
 **Summary:** Explores the involvement of **GPCRs** in *Long COVID* pathophysiology using **in silico transcriptomic and pathway enrichment analyses**. Highlights new therapeutic angles and drug repositioning opportunities.
@@ -58,8 +56,6 @@
 ![Final Year Project](https://img.shields.io/badge/Project-Final%20Year%20Project-blueviolet?style=flat-square)
 ![Year](https://img.shields.io/badge/Year-2024-lightgrey?style=flat-square) 📎 [`DOI: 10.20944/preprints202408.0558.v1`](https://doi.org/10.20944/preprints202408.0558.v1)
 
----
-
 ### 🤖 **Deep Learning in Computational Biology: Advancements, Challenges, and Future Outlook**
 
 **Summary:** A visionary overview of how **deep learning** is revolutionizing *computational biology* — from **structure prediction** and **functional annotation** to **drug discovery**. Tackles the real-world challenges and future research horizons.
@@ -67,13 +63,6 @@
 ![arXiv](https://img.shields.io/badge/Platform-arXiv-black?style=flat-square&logo=arxiv)
 ![Q1](https://img.shields.io/badge/Rank-Q1-success?style=flat-square)
 ![Year](https://img.shields.io/badge/Year-2023-lightgrey?style=flat-square) 📎 [`DOI: 10.48550/arXiv.2310.03086`](https://doi.org/10.48550/arXiv.2310.03086)
-
----
-
-
-
-
-
 
 
 ---
