@@ -63,6 +63,55 @@
 </p>
 
 
+---------------------------------------------------------------------------------------------------------------------------
+# 💻 Programming Languages
+![Beginner](https://img.shields.io/badge/Beginner-%F0%9F%94%B4-red)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![Perl](https://img.shields.io/badge/-Perl-39457E?style=for-the-badge&logo=perl&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+
+
+---
+# 🏆 Achievements
+
+<table width="100%">
+  <tr>
+    <td valign="top" width="65%">
+
+### 🥇 Best Poster Presenter  
+📍 **Event:** *INCOBIOM – International Conference on Computational Biology & Precision Medicine*  
+📅 **Year:** `2024`  🏅 **Award:** `Best Poster`  
+💡 _Presented award-winning research in computational biology and precision medicine._
+
+  </td>
+  <td align="right" width="35%">
+    <img src="https://via.placeholder.com/250x180.png?text=Certificate+1" alt="Certificate Image" width="250">
+  </td>
+</tr>
+</table>
+
+
+<table width="100%">
+  <tr>
+    <td valign="top" width="65%">
+
+### 🎓 Dean’s List Award  
+🏫 **Institution:** *University Academic Excellence*  
+📅 **Years:** `2022`, `2023`, `2024`  
+💡 _Maintained consistent academic excellence across 3 years._
+
+  </td>
+  <td align="right" width="35%">
+    <img src="https://via.placeholder.com/250x180.png?text=Certificate+2" alt="Dean's List Certificate" width="250">
+  </td>
+</tr>
+</table>
+
+    
+   
+
+
+
+
 
 
 
