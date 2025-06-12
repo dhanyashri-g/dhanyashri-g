@@ -1,4 +1,4 @@
----
+--------------------------------------------------------------------------------------------------------------------
 # Specialities
 
 | 🧬 Bioinformatics | 💾 Database | 🌱 Biodiversity, Statistics & ResearchM | ⚗️ Life Sciences |
