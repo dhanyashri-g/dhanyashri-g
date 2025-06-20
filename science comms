@@ -1,0 +1,14 @@
+/science-comms/
+│
+├── posters/
+│   ├── poster1-LongCovidPoster.pdf
+│   ├── poster2-BiodiversityPoster.pdf
+│
+├── magazines/
+│   ├── science-GeneticsMag.pdf
+│   ├── science-SDGMag.pdf
+│
+├── video/
+│   └── HGPVideo.mp4
+│
+└── README.md
