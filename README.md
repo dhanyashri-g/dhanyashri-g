@@ -7,16 +7,6 @@
 </p>
 
 --------------------------------------------------------------------------------------------------------------------
-# 📚 Specialities
-
-| 🧬 Bioinformatics | 💾 Database | 🌱 Biodiversity, Statistics & ResearchM | ⚗️ Life Sciences |
-|------------------|---------|----------------------------------------|------------------------------|
-| E-Health & Ethics in Bioinformatics | Database Management | Biodiversity | Biochemistry & Applied Chemistry |
-| Bioinformatics Data Processing      | Data Analysis | Informatics Ecology & Environment | Microbiology |
-| Sequence & Structure Analysis       | Data Structure & Algorithm | Biostatistics | Molecular Biology |
-| Informatics Pathology              | Object Oriented Analysis & Design | Calculus & Discrete | General Genetics |
-| Health Informatics                 | System Analysis & Design | Research Methodology | Cell & Tissue Biology |
-
 
 ---
 # 🧰 Technical & Soft Skills
@@ -92,7 +82,7 @@
 
 
 ---
-# 🧬 Research Projects
+# 🧬 Academic Research Projects
 
 | 🔬 **Monkeypox Protein Structure** | 💉 **Vaccine Design (Monkeypox)** | 🧪 **Rheumatoid Arthritis Analysis** |
 |----------------------------------|----------------------------------|-------------------------------------|
@@ -123,7 +113,6 @@
 
 | **🔬 Whole Genome Sequencing & AMR Profiling**<br>![Instructor](https://img.shields.io/badge/Instructor-Dr.K.M.Kumar-blue?style=flat-square)<br>![Skills](https://img.shields.io/badge/WGS-blueviolet?style=flat-square) ![AMR](https://img.shields.io/badge/Antibiotic_Resistance-blue?style=flat-square) ![Pathogen](https://img.shields.io/badge/Pathogen_Analysis-blue?style=flat-square)<br>![Type](https://img.shields.io/badge/Workshop-orange?style=flat-square) | **🦠 Microbial Pathogen Database & Resources**<br>![Instructor](https://img.shields.io/badge/Instructor-Dr.K.M.Kumar-blue?style=flat-square)<br>![Skills](https://img.shields.io/badge/Pathogen_DB-purple?style=flat-square) ![Tools](https://img.shields.io/badge/Microbial_Tools-purple?style=flat-square) ![Resources](https://img.shields.io/badge/Bioinfo_Resources-purple?style=flat-square)<br>![Type](https://img.shields.io/badge/Short_Course-orange?style=flat-square) | **🧬 NGS Microbial Data Analysis**<br>![Event](https://img.shields.io/badge/Event-Post--Conference-lightgrey?style=flat-square)<br>![Skills](https://img.shields.io/badge/NGS-green?style=flat-square) ![Data](https://img.shields.io/badge/Data_Exploration-green?style=flat-square) ![Genomics](https://img.shields.io/badge/Microbial-green?style=flat-square)<br>![Type](https://img.shields.io/badge/Short_Course-orange?style=flat-square) |
 |:--:|:--:|:--:|
-
 
 
 ---
